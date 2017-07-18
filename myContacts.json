@@ -1,3 +1,7 @@
 {
-  "contacts" : [ { "Don" : "donatello@Don.com" }, { "Mike" : "mikelenjelo@Mike.com" }, { "Leo" : "leonardo@Leo.com" }, { "Raph" : "raphael@Raph.com"} ]
+  "contacts" : [
+    { "name" : "Don", "email" : "donatello@Don.com" },
+    { "name" : "Mike", "email" : "mikelenjelo@Mike.com" },
+    { "name" : "Leo", "email" : "leonardo@Leo.com" },
+    { "name" : "Raph", "email" : "raphael@Raph.com"} ]
 }
