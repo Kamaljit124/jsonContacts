@@ -3,5 +3,9 @@
     { "name" : "Don", "email" : "donatello@Don.com" },
     { "name" : "Mike", "email" : "mikelenjelo@Mike.com" },
     { "name" : "Leo", "email" : "leonardo@Leo.com" },
-    { "name" : "Raph", "email" : "raphael@Raph.com"} ]
+    { "name" : "Raph", "email" : "raphael@Raph.com"},
+    { "name" : "Casey", "email" : "caseyjones@Casey.com" }
+    { "name" : "April", "email" : "apriloneil@April.com" }
+    { "name" : "Splinter", "email" : "mastersplinter@Splinter.com" }
+  ]
 }
