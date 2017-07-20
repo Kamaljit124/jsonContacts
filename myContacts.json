@@ -7,6 +7,8 @@
     { "name" : "Casey", "email" : "caseyjones@Casey.com" },
     { "name" : "April", "email" : "apriloneil@April.com" },
     { "name" : "Splinter", "email" : "mastersplinter@Splinter.com" },
-    { "name" : "Shredder", "email" : "theshredder@Shredder.com" }
+    { "name" : "Shredder", "email" : "theshredder@Shredder.com" },
+    { "name" : "Json", "email" : "jsonparsingh@Json.com" },
+    { "name" : "Jessica", "email" : "jessicaparkaur@gmail.com" }
   ]
 }
