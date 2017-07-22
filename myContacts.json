@@ -9,8 +9,6 @@
     { "name" : "Splinter", "email" : "mastersplinter@Splinter.com" },
     { "name" : "Shredder", "email" : "theshredder@Shredder.com" },
     { "name" : "Json", "email" : "jsonparsingh@Json.com" },
-    { "name" : "Jessica", "email" : "jessicaparkaur@Jessica.com" },
-    { "name" : "Ash", "email" : "ashketchum@Ash.com" }
-    
+    { "name" : "Jessica", "email" : "jessicaparkaur@Jessica.com" }
   ]
 }
